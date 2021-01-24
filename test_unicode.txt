@@ -1,0 +1,36 @@
+ENIAC, acrónimo de Electronic Numerical Integrator And Computer (Computador e Integrador Numérico Electrónico),1 2 3 fue una de las primeras 
+computadora de propósitos generales. Era Turing-completa, digital, y susceptible de ser reprogramada para resolver “una extensa clase de problemas 
+numéricos”.4 5 Fue inicialmente diseñada para calcular tablas de tiro de artillería para el Laboratorio de Investigación Balística del Ejército
+de los Estados Unidos.6 7 Los ingenieros John Presper Eckert y John William Mauchly se llevaron el mérito por la construcción pero fueron seis 
+mujeres quienes la programaron: Betty Snyder Holberton, Jean Jennings Bartik, Kathleen McNulty Mauchly Antonelli, Marlyn Wescoff Meltzer,
+Ruth Lichterman Teitelbaum y Frances Bilas Spence
+
+Modalidad
+Se la ha considerado a menudo la primera computadora de propósito general, aunque este título pertenece en realidad a la computadora alemana Z1.
+ Además está relacionada con el Colossus, que se usó para descifrar código alemán durante la Segunda Guerra Mundial y destruido tras su uso para 
+evitar dejar pruebas, siendo recientemente restaurada para un museo británico. Era totalmente digital, es decir, que ejecutaba sus procesos y operaciones
+ mediante instrucciones en lenguaje máquina, a diferencia de otras máquinas computadoras contemporáneas de procesos analógicos. Se presentó al público
+ el 15 de febrero de 1946 (71 años).
+La ENIAC fue construida en la Universidad de Pensilvania por John Presper Eckert y John William Mauchly, ocupaba una superficie de 167 m² y operaba con 
+un total de 17 468 válvulas electrónicas o tubos de vacío que a su vez permitían realizar cerca de 5000 sumas y 300 multiplicaciones por segundo. Físicamente, 
+la ENIAC tenía 17 468 tubos de vacío, 7200 diodos de cristal, 1500 relés, 70 000 resistencias, 10 000 condensadores y cinco millones de soldaduras. Pesaba 
+27 Toneladas, medía 2,4 m x 0,9 m x 30 m; utilizaba 1500 conmutadores electromagnéticos y relés; requería la operación manual de unos 6000 interruptores, 
+y su programa o software, cuando requería modificaciones, demoraba semanas de instalación manual.15
+La ENIAC elevaba la temperatura del local a 50 °C. Para efectuar las diferentes operaciones era preciso cambiar, conectar y reconectar los cables como 
+se hacía, en esa época, en las centrales telefónicas, de allí el concepto. Este trabajo podía demorar varios días dependiendo del cálculo a realizar.
+Uno de los mitos que rodea a este aparato es que la ciudad de Filadelfia, donde se encontraba instalada, sufría de apagones cuando la ENIAC entraba en 
+funcionamiento, pues su consumo era de 160 kW.
+A las 23:45 del 2 de octubre de 1955 la ENIAC fue desactivada para siempre.
+
+Fiabilidad
+ENIAC utilizaba válvulas termoiónicas de base octal, comunes en su época; los acumuladores decimales se hacían con válvulas 6SN7, mientras que las válvulas 
+6L7, 6SJ7, 6SA7 y 6AC7 se usaban para funciones lógicas. Numerosas válvulas 6L6 y 6V6 se usaron como guiadoras de impulsos entre los cables que conectaban 
+cada rack del ENIAC.
+
+Algunos expertos electrónicos predijeron que las válvulas se estropearían con tanta frecuencia que la máquina nunca llegaría a ser útil. Esta predicción 
+llegó a ser parcialmente correcta: varias válvulas se fundían casi todos los días, dejando ENIAC no operativa sobre media hora. Las válvulas de fabricación 
+especial para durar largas temporadas sin deteriorarse no estuvieron disponibles hasta 1948. La mayoría de estos fallos ocurrían siempre durante los periodos 
+de encendidos o apagados de ENIAC, cuando los filamentos de las válvulas y sus cátodos estaban bajo estrés térmico. Con la simple pero costosa acción de nunca 
+apagar ENIAC, los ingenieros redujeron los fallos de válvulas del ENIAC a la más que aceptable cifra de una válvula cada dos días. De acuerdo con una entrevista 
+en 1989 a Eckert, el fallo continuo de las válvulas es un mito: "Nos fallaba una válvula aproximadamente cada dos días y conseguíamos averiguar el problema en 
+menos de 15 minutos".16 En 1954, el periodo más largo de operación de ENIAC sin un fallo fue de 116 horas (cerca de cinco días).
